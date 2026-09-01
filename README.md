@@ -92,3 +92,6 @@ Step 5) Click "Browse", navigate to your extracted folder, select the *project.g
 Step 6) Click "Import & Edit" at the bottom of the popup window. 
 
 
+BUGS:
+BUG-1: show collisions doesn't show them.
+
