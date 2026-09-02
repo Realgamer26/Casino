@@ -57,7 +57,9 @@ Linux: Any standard 64-bit dual-core processor.
 Linux and MacOS: 50MiB of storage (75MiB recomended)
 
 Windows: 130MiB of storage
- **If you are on Linux**, you may need to grant the file execution permissions before playing. Open your terminal in the game folder and run:
+
+ **If you are on Linux**, you may need to grant the file execution permissions before playing. Open your terminal in the game 
+ folder and run:
 *chmod +x casino_linux.x86_64*
 You also have to have a system library with *'glibc 2.31'+*
 
@@ -70,7 +72,8 @@ You also have to have a system library with *'glibc 2.31'+*
  
  Step 2) Click download latest (As of August 31, 2026 this is 4.7.2). This will bring you to the download screen.
  
- Step 3) Scroll all the way until you see supported platforms. Choose your operating system. (It is recommended to use a laptop/desktop, not android or ios)
+ Step 3) Scroll all the way until you see supported platforms. Choose your operating system. (It is recommended to use a 
+ laptop/desktop, not android or ios)
  
  Step 4) Scroll back to the top. Click the blue button (don't choose *-.NET*)
  
