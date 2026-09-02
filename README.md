@@ -81,7 +81,7 @@ You also have to have a system library with *glibc 2.31*+
 
  # How to Import the Project Source Code
 
-Once you have downloaded this repository and installed Godot 4.7.2, follow these steps to open the game editor:
+Once you have downloaded this repository and installed Godot, follow these steps to open the game editor:
 
 Step 1) Click the green "Code" button at the top of this GitHub page and select "Download ZIP".
 
@@ -100,3 +100,9 @@ Step 6) Click "Import & Edit" at the bottom of the popup window.
 BUG-1: Show collisions doesn't show them.
 
 BUG-2: MacOS and Linux won't work due the the files being in *.lnk* format
+
+# Contact me
+If you want to report a bug, add a feature to the game, or just want to ask questions, this is the place to do it!
+* [Click here to report a bug](https://Realgamer26.github.io/Casino/bugs.html)
+* [Click here to recommend a feature](https://Realgamer26.github.io/Casino/recommendations.html)
+* [Click here for General Inquiries](https://Realgamer26.github.io/Casino/Inquiries.html)
