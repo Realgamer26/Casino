@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8"
+	<title>Casino - Recommend a feature</title>
+</head>
+
+<body>
+
+	<h1>Recommend a feature </h1>
+
+	<p>Want to have a feature in Casino? Feel free to ask!</p>
+
+	<form action="https://formspree.io/f/mzebrqlw"method="POST">
+	
+		<label for="email">Email (required): </label>
+		<br>
+		<input type="email" id="email" name="email" required>
+
+		<br><br>
+
+		<label for="recommendation">Explain the feature:</label>
+		<br>
+		<textarea id="feature" name="feature" rows="8" cols="50" maxlength="2000" required></textarea>
+
+		<p id="counter">0 / 2000 characters</p>
+
+		
+		<script>
+		const box = document.getElementById("feature");
+		const counter = document.getElementById("counter")
+
+		box.addEventListener("input", function() {
+			counter.textContent = box.value.length + " / 2000 characters";
+		});
+		</script>
+		<br><br>
+		<button type="submit">Send Request</button>
+
+		</form>
+		</body>
+		</html>
+		

@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8"
+	<title>Casino - Report a Bug</title>
+</head>
+
+<body>
+
+	<h1>Report a Bug </h1>
+
+	<p>Found a bug in Casino? Please tell me about it below.</p>
+
+	<form action="https://formspree.io/f/mljebkvv"method="POST">
+	
+		<label for="email">Email (optional):</label>
+		<br>
+		<input type="email" id="email" name="email">
+
+		<br><br>
+
+		<label for="bug">Describe the bug:</label>
+		<br>
+		<textarea id="bug" name="bug" rows="8" cols="50" maxlength="2000" required></textarea>
+		<p id="counter">0 / 2000 characters</p>
+		<script>
+		const box = document.getElementById("bug");
+		const counter = document.getElementById("counter")
+
+		box.addEventListener("input", function() {
+			counter.textContent = box.value.length + " / 2000 characters";
+		});
+		</script>
+		<br><br>
+		<button type="submit">Send Bug Report</button>
+
+		</form>
+		</body>
+		</html>
