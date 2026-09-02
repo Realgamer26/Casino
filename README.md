@@ -94,6 +94,7 @@ Step 6) Click "Import & Edit" at the bottom of the popup window.
 
 # BUGS
 BUG-1: Show collisions doesn't show them.
+
 BUG-2: MacOS and Linux won't work due the the files being in *.lnk* format
 
 
