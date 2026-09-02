@@ -54,8 +54,9 @@ Linux: Any standard 64-bit dual-core processor.
 
  **Available Storage:**
 
-25MiB of storage
+Linux and MacOS: 50MiB of storage (75MiB recomended)
 
+Windows: 130MiB of storage
  **If you are on Linux**, you may need to grant the file execution permissions before playing. Open your terminal in the game folder and run:
 *chmod +x casino_linux.x86_64*
 You also have to have a system library with *'glibc 2.31'+*
