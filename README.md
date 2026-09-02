@@ -100,38 +100,3 @@ Step 6) Click "Import & Edit" at the bottom of the popup window.
 BUG-1: Show collisions doesn't show them.
 
 BUG-2: MacOS and Linux won't work due the the files being in *.lnk* format
-
-
-# Contact Me
-
-If you have a bug to report or want to collaborate, feel free to drop a message below!
-
-<form action="https://formspree.io" method="POST">
-  <label>
-    <strong>Your Email:</strong><br>
-    <input type="email" name="email" required placeholder="name@example.com" style="width: 100%; max-width: 300px;">
-  </label>
-  <br><br>
-
-  <label>
-    <strong>Reason for Contact:</strong><br>
-    <select name="reason" required style="width: 100%; max-width: 300px;">
-      <option value="" disabled selected>-- Select an option --</option>
-      <option value="Bug Report"> Bug Report</option>
-      <option value="Feature Request">💡 Feature Request</option>
-      <option value="General Inquiry">💬 General Inquiry / Collaboration</option>
-    </select>
-  </label>
-  <br><br>
-
-  <label>
-    <strong>Your Message:</strong><br>
-    <textarea name="message" required rows="5" style="width: 100%; max-width: 400px;" placeholder="Describe the bug or your request here..."></textarea>
-  </label>
-  <br><br>
-
-  <button type="submit" style="background-color: #24292e; color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer;">Send Message</button>
-</form>
-
-
-
