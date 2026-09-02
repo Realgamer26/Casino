@@ -61,7 +61,7 @@ Windows: 130MiB of storage
  **If you are on Linux**, you may need to grant the file execution permissions before playing. Open your terminal in the game 
  folder and run:
 *chmod +x casino_linux.x86_64*
-You also have to have a system library with *'glibc 2.31'+*
+You also have to have a system library with *glibc 2.31*+
 
 
  # Installing Godot
