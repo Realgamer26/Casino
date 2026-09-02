@@ -106,3 +106,6 @@ If you want to report a bug, add a feature to the game, or just want to ask ques
 * [Click here to report a bug](https://Realgamer26.github.io/Casino/bugs.html)
 * [Click here to recommend a feature](https://Realgamer26.github.io/Casino/recommendations.html)
 * [Click here for General Inquiries](https://Realgamer26.github.io/Casino/Inquiries.html)
+<br><br><br>
+![ ](https://media.tenor.com/BjH9TRpYLgUAAAAj/glaggle-wave.gif)
+[DONT CLICK THIS](https://www.youtube.com/watch?v=hB7CDrVnNCs)
