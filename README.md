@@ -56,12 +56,26 @@ Linux: Any standard 64-bit dual-core processor.
 
 Linux and MacOS: 50MiB of storage (75MiB recomended)
 
-Windows: 130MiB of storage
+Windows: 140MiB of storage 150Mib recommended
 
  **If you are on Linux**, you may need to grant the file execution permissions before playing. Open your terminal in the game 
  folder and run:
 *chmod +x casino_linux.x86_64*
-You also have to have a system library with *glibc 2.31*+
+You also have to have a system library with *glibc 2.31*+<br>
+**If you are on macOS**, GateKeeper may block Casino from opening because the current Alpha Build is not signed or notarized by Apple.
+
+Step 1) Attempt to run the game. If it says it can't due to it being block by the gatekeeper, that is okay.
+
+Step 2) Go to Settings > Privacy and Security
+
+Step 3) Scroll down to *"Security"*
+
+Step 4) Find the message saying that Casino was blocked. Click **"OPEN ANYWAY"**
+
+Step 5) Confirm you want to open Casino
+
+**You should only have to do this once, the first time you run the game** 
+
 
 
  ## Installing Godot
