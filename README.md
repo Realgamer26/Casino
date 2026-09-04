@@ -1,5 +1,5 @@
 # Casino
-A simple casino game. Version Alpha 1.0 . Press Play Game to enter the casino. You use arrow keys to move, and esc to go back to the main menu. In the settings, you have Dev Mode and Legacy textures. The legacy textures have not been implemented. Inside Dev Mode is show collisions and hitboxes. Hitboxes don't exist yet, while collisions do. Enjoy! :)
+A simple casino game. Version Alpha 1.0.1 . Press Play Game to enter the casino. You use arrow keys or wasd to move, and esc to go back to the main menu. Press shift to sprint. In the settings, you have Dev Mode and Legacy textures. The legacy textures have not been implemented. Inside Dev Mode is show collisions and hitboxes. Hitboxes don't exist yet, while collisions do. Enjoy! :)
 
 
 
