@@ -11,18 +11,9 @@ Windows 10/11 64bit operating system,
 
 MacOS 11 Big Sur,
 
-Ubuntu 20.04, 
+Linux Distros:
 
-Mint 20,
-
-Debian11, 
-
-Fedora 32,
-
-PoP! 20.04,
-
-openSUSE Leap 
-15.3.
+Check Godot Requierments
 
 **Processor (CPU):** 
 
@@ -124,3 +115,12 @@ If you want to report a bug, add a feature to the game, or just want to ask ques
 <br><br><br>
 ![ ](https://media.tenor.com/BjH9TRpYLgUAAAAj/glaggle-wave.gif)
 [DONT CLICK THIS](https://www.youtube.com/watch?v=hB7CDrVnNCs)
+
+
+
+# About
+This game is made in Godot version 4.7.2
+GDscript 2.0
+
+
+## A special thanks
