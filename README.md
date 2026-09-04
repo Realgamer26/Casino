@@ -9,7 +9,7 @@ A simple casino game. Version Alpha 1.0.1 . Press Play Game to enter the casino.
 
 Windows 10/11 64bit operating system, 
 
-MacOS 11 Big Sur,
+MacOS 13 Ventura or later,
 
 Linux Distros:
 
