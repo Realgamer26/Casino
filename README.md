@@ -99,9 +99,6 @@ Step 6) Click "Import & Edit" at the bottom of the popup window.
 ## BUGS
 BUG-1: Show collisions doesn't show them.
 
-BUG-2: MacOS and Linux won't work due the the files being in *.lnk* format
-
-BUG-3: Windows also won't open due to the *.lnk* file
 
 # Contact me
 If you want to report a bug, add a feature to the game, or just want to ask questions, this is the place to do it!
