@@ -112,15 +112,38 @@ If you want to report a bug, add a feature to the game, or just want to ask ques
 * [Click here to report a bug](https://Realgamer26.github.io/Casino/bugs.html)
 * [Click here to recommend a feature](https://Realgamer26.github.io/Casino/recommendations.html)
 * [Click here for General Inquiries](https://Realgamer26.github.io/Casino/Inquiries.html)
-<br><br><br>
-![ ](https://media.tenor.com/BjH9TRpYLgUAAAAj/glaggle-wave.gif)
-[DONT CLICK THIS](https://www.youtube.com/watch?v=hB7CDrVnNCs)
-
 
 
 # About
 This game is made in Godot version 4.7.2
 GDscript 2.0
+This game was created under a 
+MIT License
 
+Copyright (c) 2026 Realgamer26
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## A special thanks
+I wanted to Give a shoutout and special thanks to the developers of the Godot engine and GitHub for providing the tools and services that helped make this project possible.
+
+### 
+<br><br><br>
+![ ](https://media.tenor.com/BjH9TRpYLgUAAAAj/glaggle-wave.gif)
+[DONT CLICK THIS](https://www.youtube.com/watch?v=hB7CDrVnNCs)
