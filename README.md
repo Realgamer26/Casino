@@ -1,9 +1,9 @@
-## Casino
+# Casino
 A simple casino game. Version Alpha 1.0 . Press Play Game to enter the casino. You use arrow keys to move, and esc to go back to the main menu. In the settings, you have Dev Mode and Legacy textures. The legacy textures have not been implemented. Inside Dev Mode is show collisions and hitboxes. Hitboxes don't exist yet, while collisions do. Enjoy! :)
 
 
 
-# System requirements
+## System requirements
 
 **Operating system:** 
 
@@ -64,7 +64,7 @@ Windows: 130MiB of storage
 You also have to have a system library with *glibc 2.31*+
 
 
- # Installing Godot
+ ## Installing Godot
 
  If you want to play the game, you do **NOT** have to install Godot. However, if you want to read/use the code, you do.
 
@@ -79,7 +79,7 @@ You also have to have a system library with *glibc 2.31*+
  
  Step 5) This will download Godot. Follow the instructions it says.
 
- # How to Import the Project Source Code
+ ## How to Import the Project Source Code
 
 Once you have downloaded this repository and installed Godot, follow these steps to open the game editor:
 
@@ -96,7 +96,7 @@ Step 5) Click "Browse", navigate to your extracted folder, select the *project.g
 Step 6) Click "Import & Edit" at the bottom of the popup window. 
 
 
-# BUGS
+## BUGS
 BUG-1: Show collisions doesn't show them.
 
 BUG-2: MacOS and Linux won't work due the the files being in *.lnk* format
