@@ -13,7 +13,7 @@ MacOS 11 Big Sur,
 
 Linux Distros:
 
-Check Godot Requierments
+Check Godot Requirements
 
 **Processor (CPU):** 
 
@@ -45,11 +45,11 @@ Linux: Any standard 64-bit dual-core processor.
 
  **Available Storage:**
 
-Linux: 75 Mib minimum (80 MiB reccomended)
+Linux: 75 Mib minimum (80 MiB recommended)
 
-MacOS:  165 Mib minimum (175 MiB reccomended)
+MacOS:  165 Mib minimum (175 MiB recommended)
 
-Windows: 105 Mib minimum (120 MiB reccomended)
+Windows: 105 Mib minimum (120 MiB recommended)
 
  **If you are on Linux**, you may need to grant the file execution permissions before playing. Open your terminal in the game 
  folder and run:
