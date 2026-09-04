@@ -54,9 +54,11 @@ Linux: Any standard 64-bit dual-core processor.
 
  **Available Storage:**
 
-Linux and MacOS: 50MiB of storage (75MiB recomended)
+Linux: 75 Mib minimum (80 MiB reccomended)
 
-Windows: 140MiB of storage 150Mib recommended
+MacOS:  165 Mib minimum (175 MiB reccomended)
+
+Windows: 105 Mib minimum (120 MiB reccomended)
 
  **If you are on Linux**, you may need to grant the file execution permissions before playing. Open your terminal in the game 
  folder and run:
