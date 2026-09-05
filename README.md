@@ -90,17 +90,13 @@ Step 5) Confirm you want to open Casino
 
 Once you have downloaded this repository and installed Godot, follow these steps to open the game editor:
 
-Step 1) Click the green "Code" button at the top of this GitHub page and select "Download ZIP".
+Step 1) Open the Godot Engine software to bring up the Project Manager.
 
-Step 2) Unzip / Extract that downloaded folder anywhere on your computer's hard drive.
+Step 2) Click the "Import" button located on the top right-hand panel menu.
 
-Step 3) Open the Godot Engine software to bring up the Project Manager.
+Step 3) Click "Browse", navigate to your extracted folder, select the *project.godot* file, and click Open.
 
-Step 4) Click the "Import" button located on the top right-hand panel menu.
-
-Step 5) Click "Browse", navigate to your extracted folder, select the *project.godot* file, and click Open.
-
-Step 6) Click "Import & Edit" at the bottom of the popup window. 
+Step 4) Click "Import & Edit" at the bottom of the popup window. 
 
 
 ## BUGS
