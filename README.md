@@ -53,9 +53,10 @@ Windows: 105 Mib minimum (120 MiB recommended)
 
  **If you are on Linux**, you may need to grant the file execution permissions before playing. Open your terminal in the game 
  folder and run:
-*chmod +x casino_linux.x86_64*
-You also have to have a system library with *glibc 2.31*+<br>
-**If you are on macOS**, GateKeeper may block Casino from opening because the current Alpha Build is not signed or notarized by Apple.
+`chmod +x casino_linux.x86_64`
+You also have to have a system library with `glibc 2.31`+<br>
+**If you are on macOS**, GateKeeper may block Casino from opening because the current Alpha Build is not signed or notarized by Apple. <br>
+**If you are on Windows**, The same thing might happen. Click `more info`, then `Run Anyway`
 
 Step 1) Attempt to run the game. If it says it can't due to it being block by the gatekeeper, that is okay.
 
