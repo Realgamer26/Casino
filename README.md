@@ -105,9 +105,9 @@ BUG-1: Show collisions doesn't show them.
 
 # Contact me
 If you want to report a bug, add a feature to the game, or just want to ask questions, this is the place to do it!
-* [Click here to report a bug](https://Realgamer26.github.io/Casino/bugs.html)
-* [Click here to recommend a feature](https://Realgamer26.github.io/Casino/recommendations.html)
-* [Click here for General Inquiries](https://Realgamer26.github.io/Casino/Inquiries.html)
+* [Click here to report a bug](https://Realgamer26.github.io/Casino/HTML/bugs.html)
+* [Click here to recommend a feature](https://Realgamer26.github.io/Casino/HTML/recommendations.html)
+* [Click here for General Inquiries](https://Realgamer26.github.io/Casino/HTML/Inquiries.html)
 
 
 # About
