@@ -73,7 +73,7 @@ Step 5) Confirm you want to open Casino
 
  ## Installing Godot
 
- If you want to play the game, you do **NOT** have to install Godot. However, if you want to read/use the code, you do.
+> If you want to play the game, you do **NOT** have to install Godot. However, if you want to read/use the code, you do.
 
  Step 1) Go to *https://godotengine.org/*
  
