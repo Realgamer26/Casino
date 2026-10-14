@@ -115,7 +115,7 @@ This game is made in Godot version 4.7.2
 GDscript 2.0
 This game was created under a 
 MIT License
-
+```
 Copyright (c) 2026 Realgamer26
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -143,3 +143,4 @@ I wanted to Give a shoutout and special thanks to the developers of the Godot en
 <br><br><br>
 ![ ](https://media.tenor.com/BjH9TRpYLgUAAAAj/glaggle-wave.gif)
 [DONT CLICK THIS](https://www.youtube.com/watch?v=hB7CDrVnNCs)
+```
