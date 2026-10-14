@@ -135,7 +135,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
+```
 ## A special thanks
 I wanted to Give a shoutout and special thanks to the developers of the Godot engine and GitHub for providing the tools and services that helped make this project possible.
 
@@ -143,4 +143,4 @@ I wanted to Give a shoutout and special thanks to the developers of the Godot en
 <br><br><br>
 ![ ](https://media.tenor.com/BjH9TRpYLgUAAAAj/glaggle-wave.gif)
 [DONT CLICK THIS](https://www.youtube.com/watch?v=hB7CDrVnNCs)
-```
+
